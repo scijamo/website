@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Yo yo yo what is up guys. It's ya boy JM and boy does he have a message for LEON!
 
-You can use the [editor on GitHub](https://github.com/scijamo/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Right so we are gonna make a website. I have only just started this and that's why it looks rubbish - but we can do literally whatever we want and learn some really cool coding and stuff along the way. It's actually so easy - i reckon we could even have it called jamieleon.com or something if we really wanted to. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Forget YouTube, this will be the next big thing.
 
-### Markdown
+(BTW, sorry if this doesnt wokr very well on phone/ipad)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### See i can put things in fancy blocks
+
+Bla bla bla
 
 ```markdown
-Syntax highlighted code block
+You've got no fans
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**If you want some** and _I'll give it ya_ and `Code` 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link]>>>>(https://www.youtube.com/watch?v=sAhEFuq62-I) 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). - I RECKON YOU MIGHT FIND THIS INTERESTING.
 
-### Jekyll Themes
+### Quantum physics for beginners
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scijamo/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Now, i'm not yet sure about writing maths on here. But that's fine, because quantum physics is easy, so we don't need any maths. All you need to do to learn it is to forget everything you know about the world.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're still reading this, well done. Please call 07581693183 for a heartfelt congratulations.
