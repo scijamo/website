@@ -12,12 +12,12 @@ Bla bla bla
 
 ```markdown
 You've got no fans
+```
 
 
 **If you want some** and _I'll give it ya_ and `Code` 
 
 [Link]>>>>(https://www.youtube.com/watch?v=sAhEFuq62-I) 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). - I RECKON YOU MIGHT FIND THIS INTERESTING.
 
